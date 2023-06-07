@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AleksandarBuk
 - 👀 I’m interested in Data Sciences and Web Development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently mastering Python
+- 💞️ I’m looking to collaborate on Data Science&Web Development projects
 - 📫 How to reach me: aleksandar.buk@gmail.co
 
 <!---
