@@ -3,6 +3,7 @@
 - 🌱 I’m currently mastering Python
 - 💞️ I’m looking to collaborate on Data Science&Web Development projects
 - 📫 How to reach me: aleksandar.buk@gmail.com
+- 📝 Check out my Python Blog: http://16.171.160.221:8000
 - 🌐 Check out my web-site: https://aleksandarbuk.github.io/Alex.github.io/
 
 <!---
