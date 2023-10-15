@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @AleksandarBuk
-- 👀 I’m interested in Data Sciences and Machine Learning
-- 🌱 I’m a Python Developer looking to collaborate on Data Science&Machine Learning/Web Development projects
-- 📫 How to reach me: aleksandar.buk@gmail.com
-- 📝 Check out my Python Blog: http://16.171.160.221:8000
-- 🌐 Check out my portfolio web-site: https://aleksandarbuk.github.io/Alex.github.io/
-
+- 👋 Hi, I’m Alex
+- 📈🔍🤖 I'm a Data/ML researcher
+- Tools I use:
+  - Machine Learning: TensorFlow, PyTorch, Scikit-learn, Matplotlib, Seaborn, NumPy
+  - Data Science: JQ, Bash, Beautiful Soup, Selenium, MySQL, PostgreSQL, Requests
+  - Programming Languages: Python, JavaScript, HTML, CSS, R
+  - Work Environments: Flask, Django, Scrapy, Bootstrap
+- 📫 *Contact:* aleksandar.buk@gmail.com
+- 📝 *TechWise Blog:* (http://16.171.160.221:8000)
+- 🌐 Check out my portfolio web-site:(https://aleksandarbuk.github.io/Alex.github.io/)
