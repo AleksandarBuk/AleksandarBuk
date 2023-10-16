@@ -1,10 +1,16 @@
-- 👋 Hi, I’m Alex
-- 📈🔍🤖 I'm a Data/ML researcher
-- Tools I use:
-  - Machine Learning: TensorFlow, PyTorch, Scikit-learn, Matplotlib, Seaborn, NumPy
-  - Data Science: JQ, Bash, Beautiful Soup, Selenium, MySQL, PostgreSQL, Requests
-  - Programming Languages: Python, JavaScript, HTML, CSS, R
-  - Work Environments: Flask, Django, Scrapy, Bootstrap
-- 📫 *Contact:* aleksandar.buk@gmail.com
-- 📝 *TechWise Blog:* (http://16.171.160.221:8000)
-- 🌐 Check out my portfolio web-site:(https://aleksandarbuk.github.io/Alex.github.io/)
+# Alex's Profile
+
+👋 Data/ML Researcher
+
+## Tools
+- ML: TensorFlow, PyTorch, Scikit-Learn, Numpy
+- Data: JQ, Bash, BeautifulSoup, SQL, Selenium, Postgres, 
+- Languages: Python, JavaScript, R, HTML, CSS
+- Frameworks: Flask, Django, Scrapy, PyQT
+
+## Contact
+📫 Email: aleksandar.buk@gmail.com
+
+📝 My Blog: http://16.171.160.221:8000
+
+🌐 [Portfolio](https://aleksandarbuk.github.io/Alex.github.io/)
