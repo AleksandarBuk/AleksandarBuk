@@ -1,4 +1,4 @@
-# Alex's Profile
+# Hello, I'm Alex
 
 👋 Data/ML Researcher
 
