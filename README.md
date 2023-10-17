@@ -1,10 +1,10 @@
-# Hello, I'm Alex
+# Hello, my name is Aeksandar, and I'm a Python developer.
 
-👋 Data/ML Researcher
+👋 Oriented towards Data Science/ML 
 
 ## Tools
 - ML: TensorFlow, PyTorch, Scikit-Learn, Numpy
-- Data: JQ, Bash, BeautifulSoup, SQL, Selenium, Postgres, pandas, matplotlib
+- Data: JQ, Bash, BeautifulSoup, SQL, Selenium, Postgres, Pandas, Matplotlib
 - Languages: Python, JavaScript, R, HTML, CSS
 - Frameworks: Flask, Django, Scrapy, PyQT
 
