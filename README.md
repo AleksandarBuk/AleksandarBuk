@@ -1,12 +1,11 @@
-# Hello, my name is Aeksandar, and I'm a Python developer.
+👋 Hello, I'm Alex, 
+My area of expertise is in Data, Machine Learning, Deep Learning, and Generative AI.
 
-👋 Oriented towards Data Science/ML 
-
-## Tools
-- ML: TensorFlow, PyTorch, Scikit-Learn, Numpy
-- Data: JQ, Bash, BeautifulSoup, SQL, Selenium, Postgres, Pandas, Matplotlib
-- Languages: Python, JavaScript, R, HTML, CSS
-- Frameworks: Flask, Django, Scrapy, PyQT
+## Toolbox
+ML/DL: TensorFlow, PyTorch, Scikit-Learn, NumPy, OpenCV
+Data: JQ, Bash, BeautifulSoup, SQL, Selenium, Postgres, Pandas, Matplotlib
+Languages: Python, JavaScript, R, HTML, CSS
+Frameworks: Flask, Django, Scrapy, PyQT, React
 
 ## Contact
 📫 Email: aleksandar.buk@gmail.com
