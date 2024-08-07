@@ -24,7 +24,7 @@ Machine Learning & Data Science enthusiast | Full-stack developer | Python, Java
 
 ## Contact
 
-- Email: aleksandar.buk@gmail.com
+- aleksandar.buk@gmail.com
 - [Portfolio](https://aleksandarbuk.github.io/portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/aleksandar-buk)
 - [LeetCode](https://leetcode.com/Kir1q/)
