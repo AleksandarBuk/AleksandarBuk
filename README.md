@@ -11,7 +11,7 @@ Machine Learning & Data Science enthusiast | Full-stack developer | Python, Java
 - **Iris Model**: A machine learning project using supervised techniques to classify Iris flower species.
 - **HackerNews-Scraper**: A Python-based scraper using Beautiful Soup and an API to extract and organize data from Hacker News.
 - **DogVision**: Neural Networks dog breed classifier model developed on Google Colab.
-- **Image-Modifier**: A versatile image manipulation tool combining Pillow for processing and PyQt6 for GUI.
+- **[Image-Modifier](https://github.com/AleksandarBuk/Image-Modifier)**: A versatile image manipulation tool combining Pillow for processing and PyQt6 for GUI.
 - **Django-Blog**: Personal blog created as a Django web application with profile management and post creation features.
 
 ## Tools and Technologies
