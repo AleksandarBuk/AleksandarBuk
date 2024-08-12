@@ -4,7 +4,7 @@ Machine Learning & Data Science enthusiast | Full-stack developer | Python, Java
 
 ## Notable Projects
 
-- **[Wikipedia-NLP](https://github.com/AleksandarBuk/Wikipedia-NLP)**: Developed a Python-based command-line NLP tool for analyzing and summarization of Wikipedia content.
+- **[Wikipedia-NLP](https://github.com/AleksandarBuk/Wikipedia-NLP)**: Python-based command-line NLP tool for analyzing and summarization of Wikipedia content.
 - **[Smart Matching Service](https://github.com/AleksandarBuk/smart-matching-service)**: A Java Spring Boot application for intelligent matching.
 - **[Wallet Platform](https://github.com/AleksandarBuk/Wallet-platform)**: A Go-based wallet platform for managing digital assets.
 - **[Heart Disease Classification](https://github.com/AleksandarBuk/Heart-Disease-Classification)**: A machine learning model to classify the possibility of a patient having heart disease.
