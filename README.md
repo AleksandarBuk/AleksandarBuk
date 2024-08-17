@@ -14,7 +14,7 @@ Machine Learning & Data Science enthusiast | Full-stack developer | Python, Java
 - **[DogVision](https://github.com/AleksandarBuk/DogVision)**: Neural Networks dog breed classifier model developed on Google Colab.
 - **[Image-Modifier](https://github.com/AleksandarBuk/Image-Modifier)**: A versatile image manipulation tool combining Pillow for processing and PyQt6 for GUI.
 - **[Django-Blog](https://github.com/AleksandarBuk/Django-Blog)**: Personal blog created as a Django web application with profile management and post creation features.
-- **[Password-Checker](https://github.com/AleksandarBuk/Password-Checker)**:" Python-based web application that utilizes hashing and privacy techniques in order to securely validate users password.
+- **[Password-Checker](https://github.com/AleksandarBuk/Password-Checker)**: Python-based web application that utilizes hashing and privacy techniques in order to securely validate users password.
 
 ## Tools and Technologies
 
